@@ -10,6 +10,8 @@ The goal of this assignment was to generate a random perfect maze using [Kruskal
 * Shows how many incorrect moves the player or the search algorithm had made
 * have the player choose a searching algorithm (either bfs or dfs) and then animates the algorithm
 * have the player regenerate a new maze
+* Players can toggle between seeing and not seeing thier visited paths
+* Players can also toggle to see a gradient of how far each cell is from either the end of the maze or the beginning of the maze 
 
 # Demo
 <p align="center">
